@@ -1,6 +1,7 @@
-A simple drum set using an Arduino and shock (piezo) sensors.
+## A simple drum set using an Arduino and shock (piezo) sensors
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nTQUwghvy5Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Watch the video in Youtube](https://youtu.be/7bNhoo7q0dA?si=IAD3ucfcjcC7DUWS)
+
 
 ## How to use
 ### Code
@@ -8,4 +9,4 @@ A simple drum set using an Arduino and shock (piezo) sensors.
 - Open GarageBand
 
 ### Circuit
-Will be updated
+![curcuit](https://github.com/at-susie/shock-sensor-drum/assets/28137165/d01b24cb-9229-4a12-813b-2c8d5e147004)
