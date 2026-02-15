@@ -9,4 +9,5 @@
 - Open GarageBand
 
 ### Circuit
-![curcuit](https://github.com/at-susie/shock-sensor-drum/assets/28137165/d01b24cb-9229-4a12-813b-2c8d5e147004)
+![IMG_3425](https://github.com/user-attachments/assets/00a880f1-bd50-4236-9ce7-5f1d321b6d19)
+
